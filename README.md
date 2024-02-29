@@ -10,7 +10,7 @@
   <img height=30 src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white" alt="Telegram"/>
  </a>
   <a href="mailto:yadsp@yandex.ru">
-  <img height="30" src="https://img.shields.io/badge/Mail me-blue?style=for-the-bage&logo=gmail&logoColor=white" alt="Telegram"/>
+  <img height="30" src="https://img.shields.io/badge/Mail me-blue?style=for-the-bage&logo=gmail&logoColor=white" alt="Mail"/>
  </a>
 </div>
 
