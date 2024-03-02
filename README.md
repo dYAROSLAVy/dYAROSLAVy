@@ -17,18 +17,17 @@
 ### My projects
 <ul>
  <li>
-  <a href="https://dyaroslavy.github.io/fitness/">Омский Фитнес центр</a>
- </li>
-  <li>
-  <a href="https://dyaroslavy.github.io/2173645-cat-energy-28/">Функциональное питание для котов</a>
- </li>
-  <li>
-  <a href="https://dyaroslavy.github.io/lifetour/">Lifetour организация походов в горы</a>
- </li>
-   <li>
   <a href="https://dyaroslavy.github.io/internship/">Проект Стажировка</a>
  </li>
-
+ <li>
+  <a href="https://dyaroslavy.github.io/lifetour/">Lifetour организация походов в горы</a>
+ </li>
+ <li>
+  <a href="https://dyaroslavy.github.io/fitness/">Омский Фитнес центр</a>
+ </li>
+ <li>
+  <a href="https://dyaroslavy.github.io/2173645-cat-energy-28/">Функциональное питание для котов</a>
+ </li>
 </ul>
 
 
