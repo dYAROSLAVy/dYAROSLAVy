@@ -16,6 +16,9 @@
 
 ### My projects
 <ul>
+  <li>
+  <a href="https://gscore-phi.vercel.app/">Gscore</a>
+ </li>
  <li>
   <a href="https://dyaroslavy.github.io/internship/">Проект Стажировка</a>
  </li>
