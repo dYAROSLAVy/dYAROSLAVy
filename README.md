@@ -16,8 +16,10 @@
 
 ### My projects
 <ul>
-  <li display="flex" flexDirection="column">
+  <li>
   <a href="https://gscore-phi.vercel.app/">Gscore</a>
+ </li>
+ <li>
   <span>Можно зарегистрироваться, зайти в аккаунт, изменить пароль, почту и имя, купить подписку, активировать коды в подписке, сменить подписку на большую или меньшую</span>
  </li>
  <li>
