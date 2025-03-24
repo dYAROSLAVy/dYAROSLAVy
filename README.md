@@ -16,11 +16,6 @@
 
 ### My projects
 <ul>
-  <li>
-  <a href="https://gscore-phi.vercel.app/">Gscore</a>
-   <div>  <span> Можно зарегистрироваться, зайти в аккаунт, изменить пароль, почту и имя, купить подписку, активировать коды в подписке, сменить подписку на большую или меньшую</span></div>
-
- </li>
  <li>
   <a href="https://dyaroslavy.github.io/lifetour/">Lifetour организация походов в горы</a>
  </li>
