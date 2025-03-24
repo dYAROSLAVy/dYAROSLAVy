@@ -22,9 +22,6 @@
 
  </li>
  <li>
-  <a href="https://dyaroslavy.github.io/internship/">Проект Стажировка</a>
- </li>
- <li>
   <a href="https://dyaroslavy.github.io/lifetour/">Lifetour организация походов в горы</a>
  </li>
  <li>
