@@ -23,13 +23,13 @@
   <a href="https://github.com/dYAROSLAVy/share-your-tales/">ShareYourTales</a>
  <div> <span>Мобильное приложение на React Native + TypeScript + Apollo Client + FSD, реализующее платформу для создания и чтения пользовательских историй.
 Поддерживает регистрацию, авторизацию, редактирование профиля, публикацию постов с изображениями и смену темы (светлая/тёмная).
-⚠️ Онлайн-демо недоступно из-за отключённого backend.</span></div>
+<br>⚠️ Онлайн-демо недоступно из-за отключённого backend.</span></div>
  </li>
   <li>
   <a href="https://github.com/dYAROSLAVy/gscore/">Gscore</a>
  <div>  <span> Next.js + React + Redux Toolkit + TypeScript + FSD.  
 Реализован полноценный пользовательский интерфейс: авторизация, смена пароля, управление подпиской, активация кодов, изменение профиля.  
-⚠️ Онлайн-демо недоступно из-за отключённого backend.</span></div>
+<br>⚠️ Онлайн-демо недоступно из-за отключённого backend.</span></div>
  </li>
  <li>
   <a href="https://dyaroslavy.github.io/fitness/">Омский Фитнес центр</a>
